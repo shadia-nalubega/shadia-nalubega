@@ -4,9 +4,7 @@
 Software Engineering Student • Future AI Engineer • AgriTech Innovator
 </h3>
 
-<p align="center">
-Building technology that empowers African farmers 
-</p>
+
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+Enthusiast;Building+AgriTech+Solutions;Python+%7C+Django+%7C+JavaScript;Future+Tech+Entrepreneur" />
@@ -19,9 +17,9 @@ Building technology that empowers African farmers
 -  Currently learning Django, APIs  databases, and React
 -  Building solutions for African farmers and communities
 -  Exploring Artificial Intelligence
--  Goal: Build technology that improves agriculture across Africa and underlying communities
+-
 
--  ## 🛠 Tech Stack
+-  ##  Tech Stack
 
 <p>
 
@@ -37,9 +35,6 @@ Building technology that empowers African farmers
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadia-nalubega&layout=compact&theme=tokyonight)
 
-##  Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=shadia-nalubega&theme=react-dark)
 
 ##  Featured Projects
 
