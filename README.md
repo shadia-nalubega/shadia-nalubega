@@ -68,7 +68,7 @@ A digital platform designed to help farmers manage their agricultural activities
 
 I believe technology should solve real problems, especially in agriculture, where millions of smallholder farmers can benefit from better access to markets and information.
 
-## 🌍 Connect with Me
+## Connect with Me
 
 <p>
 
