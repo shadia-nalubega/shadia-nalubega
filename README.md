@@ -7,7 +7,7 @@ Software Engineering Student • Future AI Engineer • AgriTech Innovator
 
  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+Enthusiast;Building+AgriTech+Solutions;Python+%7C+Django+%7C+JavaScript;Future+Tech+Entrepreneur" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+Enthusiast;Building+AgriTech+Solutions;Python+%7C+Django;Future+Tech+Entrepreneur" />
 </p>
 
 ##  About Me
