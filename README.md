@@ -40,14 +40,14 @@ An AI-powered agricultural marketplace connecting smallholder farmers with multi
 ###  Huni Showroom
 A modern luxury e-commerce platform for my sister's fashion business, showcasing clothing, shoes, handbags, and accessories with an elegant shopping experience.
 
-**Tech:** HTML • CSS • JavaScript • React (Planned)
+**Tech:** HTML • CSS • JavaScript • React (In Progress)
 
 ---
 
 ###  Sign Language Learning Platform
 An interactive platform that helps people learn Ugandan Sign Language through AI-powered lessons, visual demonstrations, quizzes, and conversational practice to make communication more inclusive.
 
-**Tech:** AI • Python • Django (Planned)
+**Tech:** AI • Python • Django (In Progress)
 
 ---
 
