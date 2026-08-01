@@ -17,9 +17,9 @@ Software Engineering Student • Future AI Engineer • AgriTech Innovator
 -  Currently learning Django, APIs  databases, and React
 -  Building solutions for African farmers and communities
 -  Exploring Artificial Intelligence
--
 
--  ##  Tech Stack
+
+##  Tech Stack
 
 <p>
 
