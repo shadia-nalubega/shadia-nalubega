@@ -27,14 +27,6 @@ Software Engineering Student • Future AI Engineer • AgriTech Innovator
 
 </p>
 
-##  GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shadia-nalubega&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadia-nalubega&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadia-nalubega&layout=compact&theme=tokyonight)
-
 
 ##  Featured Projects
 
